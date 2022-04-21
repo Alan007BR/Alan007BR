@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alan007BR
+- 👋 Hi, I’m @aland
 - 👀 I’m a Computer Science estudent
 - 🌱 I’m currently learning C, javascript, react and next.js
 
