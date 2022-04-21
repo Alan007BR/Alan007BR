@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alan007br&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Alan's GitHub Stats" />
 </a>
 
-## Snake
+## Snake Graph
 ![snake gif](https://github.com/YOUR_USERNAME/alan007br/blob/output/github-contribution-grid-snake.gif)
