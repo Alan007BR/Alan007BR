@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alan007br
+- 👋 Hi, I’m Alan Dantas
 - 👀 I’m a Computer Science estudent
 - 🌱 I’m currently learning C, javascript, react and next.js
 
