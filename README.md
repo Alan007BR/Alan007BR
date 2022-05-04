@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan Dantas
 - 👀 I’m a Computer Science estudent
-- 🌱 I’m currently learning C, javascript, react and next.js
+- 🌱 I’m currently learning C, javascript and react.js
 
 <!---
 Alan007BR/Alan007BR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
