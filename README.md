@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alan Dantas
-- 👀 I’m a Computer Science estudent
+- 👀 I’m a Computer Science estudent at Federal University of Goi
 - 🌱 I’m currently learning C, javascript and react.js
 
 <h3 align="left">Other social networks:</h3>
