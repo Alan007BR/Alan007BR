@@ -1,8 +1,8 @@
 <h3>👋 Hi, I’m Alan Dantas</h3>
 
-- 👀 I’m a Computer Science student at Federal University of Goiás
-- 🌱 I’m currently learning C, javascript and react.js
-
+- 🏫️ I’m a Computer Science student at Federal University of Goiás
+- 📚️ I’m currently learning C, javascript and react.js
+<img src="https://media.giphy.com/media/jKIAJbTFxG16nZpMfC/giphy.gif" width="10%" height="10%" />
 <h3 align="left">Other social networks:</h3>
 <p align="left">
 <a href="https://www.behance.net/alandantas0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alandantas0" height="30" width="40" /></a>
