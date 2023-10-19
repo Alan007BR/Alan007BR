@@ -1,7 +1,7 @@
 <h3>👋 Hi, I’m Alan Dantas</h3>
 
 - 🏫️ I’m a Computer Science student at Federal University of Goiás
-- 📚️ I’m currently learning DL and Python
+- 📚️ I’m currently learning Nextjs
 <img src="https://media.giphy.com/media/jKIAJbTFxG16nZpMfC/giphy.gif" width="10%" height="10%" />
 <h3 align="left">Other social networks:</h3>
 <p align="left">
